@@ -7,7 +7,7 @@ This project utilizes [StyleGAN3](https://github.com/NVlabs/stylegan3) architect
 </div>
 
 ## Model Details
-
+- **Author:** Adrian Lokner Lađević
 - **Resolution:** 256x256 
 - **Dataset:** Custom-made, consisting of 100k images collected from [Copernicus Browser](https://browser.dataspace.copernicus.eu/?zoom=5&lat=50.16282&lng=20.78613&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 - **Notes:** FID = 23, trained 3.6 Mimgs, gamma = 5
