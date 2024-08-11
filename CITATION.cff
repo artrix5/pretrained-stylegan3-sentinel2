@@ -1,0 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pretrained StyleGAN3 Sentinel-2 Imagery
+message: 'If you use this repository, please cite it as below.'
+type: dataset
+authors:
+  - given-names: Adrian
+    family-names: Lokner Lađević
+    email: adrian.lokner.ladjevic@gmail.com
+    orcid: 'https://orcid.org/0009-0008-6264-4588'
+repository-code: 'https://github.com/artrix5/pretrained-stylegan3-sentinel2'
